@@ -1,0 +1,5 @@
+It was playing ground, have gone this far .
+Looking well in code, one will notice other comment code  which some work but most didnt.
+The code only change color of background. 
+Trial and error is an another to have a taste of.
+Happy coding !
